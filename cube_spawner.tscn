@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://clbydlhkq7lws"]
+
+[ext_resource type="Script" path="res://cube_spawner.gd" id="1_cjwux"]
+[ext_resource type="PackedScene" uid="uid://bc2fenbf1ig37" path="res://Cube.tscn" id="2_stph7"]
+
+[node name="CubeSpawner" type="Node3D"]
+script = ExtResource("1_cjwux")
+cube_scene = ExtResource("2_stph7")

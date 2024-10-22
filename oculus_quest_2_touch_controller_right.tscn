@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://dq20utgoqyqtt"]
+
+[ext_resource type="PackedScene" uid="uid://bc8lh0rihgxvi" path="res://Quest2Controllers/OculusQuest2TouchController_Right.gltf" id="1_e6sn5"]
+
+[node name="OculusQuest2TouchController_Right" instance=ExtResource("1_e6sn5")]
